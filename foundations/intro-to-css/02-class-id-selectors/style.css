@@ -3,16 +3,16 @@
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-#number2 {
-    color: rgb(0, 0, 255);
+#two {
+    color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
 
-.cool {
+.adjust-font-size {
     font-size: 24px;
 }
 
-#number4 {
-    background-color: rgb(138, 255, 138);
+#four {
+    background-color: #8aff8a;
     font-weight: bold;
 }
