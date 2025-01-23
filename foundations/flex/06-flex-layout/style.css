@@ -64,5 +64,5 @@ a {
   justify-content: space-between;
   align-items: flex-end;
   padding: 16px;
-  margin-bottom: 0px;
+  flex-direction: column;
 }
